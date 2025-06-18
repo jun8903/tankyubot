@@ -16,3 +16,6 @@ creds.json
 
 # Streamlit
 .streamlit/secrets.toml
+venv/
+__pycache__/
+.DS_Store

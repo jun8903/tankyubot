@@ -5,3 +5,5 @@ google-auth
 sentence-transformers
 torch
 pandas
+openai
+numpy
